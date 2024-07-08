@@ -19,7 +19,7 @@ is exported as a CSV. Enjoy!!
 <br/>
 
 <div align="center">
-<img height="400px" src="https://github.com/asaudu/AnimeWatchList/assets/94813320/a77412ba-7ae8-48a6-8a8a-4a23784736f8">
+<img height="400" src="https://github.com/asaudu/AnimeWatchList/assets/94813320/a77412ba-7ae8-48a6-8a8a-4a23784736f8">
 </div>
 
 
@@ -50,7 +50,7 @@ is exported as a CSV. Enjoy!!
     </tr>
     <tr>
     <td align="center" width="96">
-        <img src="https://github.com/asaudu/AnimeWatchList/assets/94813320/4383fc4b-80c7-4ace-b87b-29d4315f36f5" width="48" height="48" alt="Couchbase" />
+        <img src="https://github.com/asaudu/AnimeWatchList/assets/94813320/4383fc4b-80c7-4ace-b87b-29d4315f36f5" width="60" height="60" alt="Couchbase" />
       <br>Coouchbase
     </td>
     <td align="center" width="96">
