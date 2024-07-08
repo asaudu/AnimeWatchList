@@ -19,7 +19,7 @@ is exported as a CSV. Enjoy!!
 <br/>
 
 <div align="center">
-<img height="400" src="https://github.com/asaudu/AnimeWatchList/assets/94813320/a77412ba-7ae8-48a6-8a8a-4a23784736f8">
+<img height="400" src="https://github.com/asaudu/AnimeWatchList/assets/94813320/7fdb0c45-620b-4f99-b4a6-d115c3860244">
 </div>
 
 
