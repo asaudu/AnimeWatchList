@@ -44,7 +44,7 @@ is exported as a CSV. Enjoy!!
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/asaudu/AnimeWatchList/assets/94813320/439d16fd-9cbb-4275-b79b-9c82273770bf" width="52" height="52" alt="Maven" />
+        <img src="https://github.com/asaudu/AnimeWatchList/assets/94813320/439d16fd-9cbb-4275-b79b-9c82273770bf" width="60" height="52" alt="Maven" />
       <br>Maven
     </td>
     </tr>
